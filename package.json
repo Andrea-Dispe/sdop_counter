@@ -1,0 +1,15 @@
+{
+  "name": "sdop_counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": " <Andrea Disperati> (https://github.com/Andrea-Dispem)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
